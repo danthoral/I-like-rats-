@@ -18,4 +18,5 @@ text-decoration: none;
 li a:hover{
     background-color: #661; 
 }
-ul {position: fixed; top: 0; width: 100%;}
+ul {position: fixed; top: 0; width: 100%;
+}
