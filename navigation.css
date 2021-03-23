@@ -1,21 +1,21 @@
-ul {
+.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0; 
     overflow: hidden;
     background-color: #943;
 }
-li{
+.navbar li{
     float: left;
 }
-li a {
+.navbar li a {
     display: block;
     color: white; 
     text-align: center;
 padding: 14px 16px;
 text-decoration: none;
 }
-li a:hover{
+.navbar li a:hover{
     background-color: #661; 
 }
-ul {position: fixed; top: 0; width: 100%;}
+.navbar {position: fixed; top: 0; width: 100%;}
