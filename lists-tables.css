@@ -1,5 +1,24 @@
 .unordered {
-  list-style-type: square; } 
+  list-style-type: square;
+  line-height: 170%;
+} 
 
 .nested-ul {
-  list-style-type: circle; }
+  list-style-type: circle; 
+}
+.unordered {
+background: #AF0CFF;
+padding: 20px;
+width: 30%;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.unordered li {
+background: #D888FF;
+margin: 5px;
+}
+
+.nested-ul li {
+background: #EECBFF;
+margin: 5px;
+}
