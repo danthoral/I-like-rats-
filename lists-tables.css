@@ -13,9 +13,56 @@ table, td, th {
     } 
 
 caption { 
-  caption-side:top; 
+  caption-side: top; 
   text-align: center; 
   font-style: italic; 
   font-weight: bold; 
   color:pink; 
+} 
+table, th,td { 
+
+  border: 1px solid black; 
+
+  border-collapse: collapse; 
+
+}  
+
+th,td { 
+
+  padding: 15px; 
+
+  text-align: center; 
+
+} 
+
+caption { 
+
+  caption-side: bottom; 
+
+  text-align: center; 
+
+  font-style: italic; 
+
+  font-weight: bold; 
+
+  color: black; 
+
+} 
+
+.table-simple th { 
+  background-color: black; 
+  color: white; 
+} 
+
+.table-simple tr:nth-child(even) { 
+  background-color: #edecec; 
+} 
+
+.table-simple tr:nth-child(odd) { 
+  background-color: #fff; 
+} 
+
+
+.table-simple tr:hover { 
+  background-color: #acgfe3; 
 } 
