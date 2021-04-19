@@ -187,3 +187,27 @@ background-color: #accff7;
 margin: 0 auto;
 
 }
+	
+<style>
+table.GeneratedTable {
+  width: 100%;
+  background-color: #000000;
+border-collapse: separate;
+  border-width: 2px;
+  border-color: #ffffff;
+  border-style: ridge;
+  color: #7a037c;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #ffffff;
+  border-style: ridge;
+  padding: 3px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ffffff;
+}
+</style>
+
