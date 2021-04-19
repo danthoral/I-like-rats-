@@ -178,3 +178,12 @@ background-color: #ccffe9;
 .head-body-foot tfoot:hover {
 background-color: #accff7;
 }
+	
+.scroll-bar {
+	overflow-x: auto;
+}
+	.table-image {
+
+margin: 0 auto;
+
+}
