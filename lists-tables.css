@@ -187,8 +187,6 @@ background-color: #accff7;
 margin: 0 auto;
 
 }
-	
-<style>
 table.GeneratedTable {
   width: 100%;
   background-color: #000000;
@@ -209,5 +207,3 @@ table.GeneratedTable td, table.GeneratedTable th {
 table.GeneratedTable thead {
   background-color: #ffffff;
 }
-</style>
-
