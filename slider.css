@@ -13,7 +13,7 @@ vertical-align: middle;
 overflow: hidden;
 text-decoration: none;
 color: white;
-background-color: #008B8B;
+background-color:#008B8B;
 text-align: center;
 cursor: pointer;
 white-space: nowrap;
@@ -23,8 +23,8 @@ transform: translate(0%, -50%);
 -ms-transform: translate(0%, -50%)
 }
 .slider-button:hover {
-color: black;
-background-color:grey;
+color: red;
+background-color:pink;
 }
 .display-left {
 left: 0%;
