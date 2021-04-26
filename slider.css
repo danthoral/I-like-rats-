@@ -23,8 +23,8 @@ transform: translate(0%, -50%);
 -ms-transform: translate(0%, -50%)
 }
 .slider-button:hover {
-color: red;
-background-color:pink;
+color: black;
+background-color: pink;
 }
 .display-left {
 left: 0%;
