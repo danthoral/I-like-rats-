@@ -26,7 +26,7 @@ text-decoration: none;
 
 color: white;
 
-background-color: transparent;
+background-color: cadetblue;
 
 text-align: center;
 
@@ -46,7 +46,7 @@ transform: translate(0%, -50%);
 
 .slider-button:hover {
 
-color: black;
+color: pink;
 
 background-color:grey;
 
